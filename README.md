@@ -1,4 +1,4 @@
-🌫️ Ray of Hope – Beta v1.0.0
+# Ray of Hope – Beta v1.0.0
 Ray of Hope is a 3D single-player mystery game with a haunting, atmospheric tone — developed in Unity by the Next Level Team.
 
 🕯️ Story:
