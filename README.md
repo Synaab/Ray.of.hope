@@ -28,7 +28,3 @@ Everything — from art and sound to cutscenes and design — was created fully 
 
 ⚠️ This is a Beta release (v1.0.0-beta). Expect bugs or incomplete features.
 Your feedback will help shape the final version.
-
-✅ تگ پیشنهادی:
-
-ChatGPT can make mistakes. Check important in
